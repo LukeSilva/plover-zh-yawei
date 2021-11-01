@@ -1,0 +1,18 @@
+{
+"#eo": "=ns_prev_page",
+"#ine-un": "{PLOVER:SWITCH_SYSTEM:English Stenotype}",
+"#wu": "=ns_next_page",
+"-dgi": "，",
+"-w": "{:yawei_pick_char:0}",
+"-zg": "、",
+"dgi": "。",
+"gwiuneao-gwiuneao": "{#}",
+"ne-bia": "{PLOVER:ADD_TRANSLATION}",
+"w": "{:yawei_pick_char:1}",
+"w-w": "=undo",
+"w-wiu": "{^~|\n^}",
+"zg": "？",
+"zwueo-zwueo": "{^...}{-|}",
+"中": "{^}{MODE:SETSPACE:}{^}",
+"英": "{^}{MODE:RESET}{^}"
+}
