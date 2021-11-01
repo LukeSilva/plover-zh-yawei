@@ -1,0 +1,3 @@
+[submodule "steno_arcade_songs"]
+	path = steno_arcade_songs
+	url = git@github.com:LukeSilva/steno_arcade_songs.git
