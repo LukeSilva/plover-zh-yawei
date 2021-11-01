@@ -1,0 +1,501 @@
+{
+  "_red_color": "",
+  "_blue_color": "247BA0",
+  "name": "Yawei Extended",
+  "background_color": "#F0F0F0",
+  "margin": 5.0,
+  "key_width": 30.0,
+  "key_height": 30.0,
+  "keys": [
+    {
+        "name": "英-",
+        "label": "English",
+        "x": 0.0,
+        "y": 4.0,
+        "width": 2.0,
+        "height": 1.0,
+        "color": "#64BBE0",
+        "color_pressed": "#247BA0"
+    },
+    {
+        "name": "中-",
+        "label": "中文",
+        "x": 9.0,
+        "y": 4.0,
+        "width": 2.0,
+        "height": 1.0,
+        "color": "#FF9F9C",
+        "color_pressed": "#F25F5C"
+    },
+      {
+          "name": "#-",
+          "label": "#",
+          "x": 0.0,
+          "y": 0.0,
+          "width": 5.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "#-",
+          "label": "#",
+          "x": 6.0,
+          "y": 0.0,
+          "width": 5.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+
+      {
+        "name": "a-",
+        "label": "",
+        "x": 0.0,
+        "y": 1.0,
+        "width": 1.0,
+        "height": 1.0,
+        "color_pressed": "#F25F5C"
+      },
+      {
+          "name": "S-",
+          "label": "S a",
+          "x": 0.0,
+          "y": 1.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "n-",
+          "label": "",
+          "x": 1.0,
+          "y": 1.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#F25F5C"
+      },
+      {
+          "name": "T-",
+          "label": "T n",
+          "x": 1.0,
+          "y": 1.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "i-",
+          "label": "",
+          "x": 2.0,
+          "y": 1.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#F25F5C"
+      },
+      {
+          "name": "P-",
+          "label": "P i",
+          "x": 2.0,
+          "y": 1.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "g-",
+          "label": "",
+          "x": 3.0,
+          "y": 1.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#F25F5C"
+      },
+      {
+          "name": "H-",
+          "label": "H g",
+          "x": 3.0,
+          "y": 1.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "d-",
+          "label": "",
+          "x": 4.0,
+          "y": 1.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#F25F5C"
+      },
+      {
+          "name": "*",
+          "label": "* d",
+          "x": 4.0,
+          "y": 1.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "-d",
+          "label": "",
+          "x": 6.0,
+          "y": 1.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#F25F5C"
+      },
+      {
+          "name": "*",
+          "label": "* d",
+          "x": 6.0,
+          "y": 1.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "-g",
+          "label": "",
+          "x": 7.0,
+          "y": 1.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#F25F5C"
+      },
+      {
+          "name": "-F",
+          "label": "F g",
+          "x": 7.0,
+          "y": 1.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "-i",
+          "label": "",
+          "x": 8.0,
+          "y": 1.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#F25F5C"
+      },
+      {
+          "name": "-P",
+          "label": "P i",
+          "x": 8.0,
+          "y": 1.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "-n",
+          "label": "",
+          "x": 9.0,
+          "y": 1.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#F25F5C"
+      },
+      {
+          "name": "-L",
+          "label": "L n",
+          "x": 9.0,
+          "y": 1.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "-a",
+          "label": "",
+          "x": 10.0,
+          "y": 1.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#F25F5C"
+      },
+      {
+          "name": "-T",
+          "label": "T a",
+          "x": 10.0,
+          "y": 1.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "-D",
+          "label": "D",
+          "x": 11.0,
+          "y": 1.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "o-",
+          "label": "",
+          "x": 0.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#F25F5C"
+      },
+      {
+          "name": "S-",
+          "label": "S o",
+          "x": 0.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "e-",
+          "label": "",
+          "x": 1.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#F25F5C"
+      },
+      {
+          "name": "K-",
+          "label": "K e",
+          "x": 1.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "u-",
+          "label": "",
+          "x": 2.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#F25F5C"
+      },
+      {
+          "name": "W-",
+          "label": "W u",
+          "x": 2.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "w-",
+          "label": "",
+          "x": 3.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#F25F5C"
+      },
+      {
+          "name": "R-",
+          "label": "R w",
+          "x": 3.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "z-",
+          "label": "",
+          "x": 4.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#F25F5C"
+      },
+      {
+          "name": "*",
+          "label": "* z",
+          "x": 4.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "-z",
+          "label": "",
+          "x": 6.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#F25F5C"
+      },
+      {
+          "name": "*",
+          "label": "* z",
+          "x": 6.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "-w",
+          "label": "",
+          "x": 7.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#F25F5C"
+      },
+      {
+          "name": "-R",
+          "label": "R w",
+          "x": 7.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "-u",
+          "label": "",
+          "x": 8.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#F25F5C"
+      },
+      {
+          "name": "-B",
+          "label": "B u",
+          "x": 8.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "-e",
+          "label": "",
+          "x": 9.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#F25F5C"
+      },
+      {
+          "name": "-G",
+          "label": "G e",
+          "x": 9.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "-o",
+          "label": "",
+          "x": 10.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#F25F5C"
+      },
+      {
+          "name": "-S",
+          "label": "S o",
+          "x": 10.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+      {
+          "name": "-Z",
+          "label": "Z",
+          "x": 11.0,
+          "y": 2.0,
+          "width": 1.0,
+          "height": 1.0,
+          "color_pressed": "#247BA0"
+      },
+
+      {
+        "name": "b-",
+        "label": "",
+        "x": 3.0,
+        "y": 4.0,
+        "width": 1.0,
+        "height": 1.0,
+        "color_pressed": "#F25F5C"
+    },
+    {
+        "name": "A-",
+        "label": "A b",
+        "x": 3.0,
+        "y": 4.0,
+        "width": 1.0,
+        "height": 1.0,
+        "color_pressed": "#247BA0"
+    },
+    {
+        "name": "x-",
+        "label": "",
+        "x": 4.0,
+        "y": 4.0,
+        "width": 1.0,
+        "height": 1.0,
+        "color_pressed": "#F25F5C"
+    },
+    {
+        "name": "O-",
+        "label": "O x",
+        "x": 4.0,
+        "y": 4.0,
+        "width": 1.0,
+        "height": 1.0,
+        "color_pressed": "#247BA0"
+    },
+    {
+        "name": "-x",
+        "label": "",
+        "x": 6.0,
+        "y": 4.0,
+        "width": 1.0,
+        "height": 1.0,
+        "color_pressed": "#F25F5C"
+    },
+    {
+        "name": "-E",
+        "label": "E x",
+        "x": 6.0,
+        "y": 4.0,
+        "width": 1.0,
+        "height": 1.0,
+        "color_pressed": "#247BA0"
+    },
+    {
+        "name": "-b",
+        "label": "",
+        "x": 7.0,
+        "y": 4.0,
+        "width": 1.0,
+        "height": 1.0,
+        "color_pressed": "#F25F5C"
+    },
+    {
+        "name": "-U",
+        "label": "U b",
+        "x": 7.0,
+        "y": 4.0,
+        "width": 1.0,
+        "height": 1.0,
+        "color_pressed": "#247BA0"
+    }
+  ] 
+}
