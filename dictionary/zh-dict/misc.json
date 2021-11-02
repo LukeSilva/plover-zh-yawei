@@ -13,6 +13,6 @@
 "w-wiu": "{^~|\n^}",
 "zg": "？",
 "zwueo-zwueo": "{^...}{-|}",
-"中": "{^}{MODE:SETSPACE:}{^}",
-"英": "{^}{MODE:RESET}{^}"
+"中": "{#}{^}{MODE:SET_SPACE:}{^}",
+"英": "{#}{^}{MODE:RESET}{^}"
 }

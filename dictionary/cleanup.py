@@ -11,9 +11,10 @@ targets = {
     "files": {
       "default": "main.json",
       "brief": "brief.json",
+      "misc": "misc.json"
     },
     "build": {
-      "default": ["../zh-dict-generator/out/combined.json", "main.json", "brief.json"]
+      "default": ["../zh-dict-generator/out/combined.json", "main.json", "brief.json", "misc.json"]
     }
   }
 }
